@@ -29,3 +29,6 @@ Android Camera (Native and System), Album, Face Detection and Video Recording
  
   6.实现录像功能。
 
+
+  ***************** 2021/08/04  *****************
+  1，修改‘build:gradle’版本号
