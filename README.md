@@ -32,3 +32,6 @@ Android Camera (Native and System), Album, Face Detection and Video Recording
 
   ***************** 2021/08/04  *****************
   1，修改‘build:gradle’版本号
+
+  ***************** 2021/08/09  *****************
+  1，默认前置摄像头

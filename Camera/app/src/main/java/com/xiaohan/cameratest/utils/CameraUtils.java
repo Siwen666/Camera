@@ -27,7 +27,7 @@ public class CameraUtils implements Camera.PreviewCallback {
     private FaceRectView mFaceRectView;
     private static CameraUtils mCameraUtils;
     private SurfaceHolder mSurfaceViewHolder;
-    private int cameraPosition = 0; //0 后置    1 前置
+    private int cameraPosition = 1; //0 后置    1 前置
     private Camera mCamera;
     private int CAMERA_WIDHT = 640;
     private int CAMERA_HEIGHT = 480;
